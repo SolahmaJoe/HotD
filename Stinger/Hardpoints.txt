@@ -1,0 +1,45 @@
+chrprfweap_stinger_centertorso_flamer_eh1		good
+chrprfweap_stinger_centertorso_laser_eh1		good
+chrprfweap_stinger_centertorso_mg_bh1			good
+
+chrprfweap_stinger_head_flamer_eh1				good
+chrprfweap_stinger_head_laser_eh1				good
+chrprfweap_stinger_head_mg_bh1					good
+
+chrprfweap_stinger_leftarm_flamer_eh1			good
+chrprfweap_stinger_leftarm_flamer_eh2			good
+chrprfweap_stinger_leftarm_laser_eh1			good
+chrprfweap_stinger_leftarm_laser_eh2			good
+chrprfweap_stinger_leftarm_mg_bh1				good
+chrprfweap_stinger_leftarm_mg_bh2				good
+chrprfweap_stinger_leftarm_ppc_eh1				shows laser
+
+chrprfweap_stinger_lefttorso_missile10_mh1		-3R
+chrprfweap_stinger_lefttorso_missile20_mh1		
+chrprfweap_stinger_lefttorso_missile2_mh1		
+chrprfweap_stinger_lefttorso_missile4_mh1		
+chrprfweap_stinger_lefttorso_missile5_mh1		
+chrprfweap_stinger_lefttorso_missile6_mh1		
+
+chrprfweap_stinger_rightarm_flamer_eh1			good
+chrprfweap_stinger_rightarm_flamer_eh2			good
+chrprfweap_stinger_rightarm_laser_eh1			good
+chrprfweap_stinger_rightarm_laser_eh2			good
+chrprfweap_stinger_rightarm_mg_bh1				good
+chrprfweap_stinger_rightarm_mg_bh2				good
+chrprfweap_stinger_rightarm_ppc_eh1				shows laser
+
+chrprfweap_stinger_righttorso_flamer_eh1		good
+chrprfweap_stinger_righttorso_laser_eh1			good
+chrprfweap_stinger_righttorso_mg_bh1			good
+chrprfweap_stinger_righttorso_missile10_mh1		-3R
+chrprfweap_stinger_righttorso_missile20_mh1		
+chrprfweap_stinger_righttorso_missile2_mh1		
+chrprfweap_stinger_righttorso_missile4_mh1		
+chrprfweap_stinger_righttorso_missile5_mh1		
+chrprfweap_stinger_righttorso_missile6_mh1		
+chrprfweap_stinger_righttorso_ppc_eh1			shows laser
+
+
+
+
