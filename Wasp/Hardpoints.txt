@@ -1,0 +1,43 @@
+chrprfweap_wasp_leftleg_flamer_eh1			ok
+chrprfweap_wasp_leftleg_laser_eh1			ok
+chrprfweap_wasp_leftleg_missile10_mh1		good
+chrprfweap_wasp_leftleg_missile2_mh1		imported
+chrprfweap_wasp_leftleg_missile4_mh1		imported
+chrprfweap_wasp_leftleg_missile5_mh1		imported
+
+chrprfweap_wasp_lefttorso_flamer_eh1		good
+chrprfweap_wasp_lefttorso_flamer_eh2		good
+chrprfweap_wasp_lefttorso_laser_eh1			good
+chrprfweap_wasp_lefttorso_laser_eh2			good
+chrprfweap_wasp_lefttorso_mg_bh1			good
+chrprfweap_wasp_lefttorso_missile10_mh1		ok
+chrprfweap_wasp_lefttorso_missile2_mh1		
+chrprfweap_wasp_lefttorso_missile6_mh1		
+
+chrprfweap_wasp_rightarm_flamer_eh1			good
+chrprfweap_wasp_rightarm_flamer_eh2			good
+chrprfweap_wasp_rightarm_flamer_eh3			unused
+chrprfweap_wasp_rightarm_laser_eh1			good
+chrprfweap_wasp_rightarm_laser_eh2			good
+chrprfweap_wasp_rightarm_mg_bh1				good
+chrprfweap_wasp_rightarm_mg_bh2				good
+
+chrprfweap_wasp_rightarm_missile1_mh1		
+chrprfweap_wasp_rightarm_missile2_mh1		imported
+chrprfweap_wasp_rightarm_missile4_mh1		ok
+chrprfweap_wasp_rightarm_missile5_mh1		imported
+chrprfweap_wasp_rightarm_missile6_mh1		imported
+chrprfweap_wasp_rightarm_ppc_eh1			
+
+chrprfweap_wasp_righttorso_flamer_eh1		good
+chrprfweap_wasp_righttorso_flamer_eh2		good
+chrprfweap_wasp_righttorso_laser_eh1		good
+chrprfweap_wasp_righttorso_laser_eh2		good
+chrprfweap_wasp_righttorso_mg_bh1			good
+chrprfweap_wasp_righttorso_missile10_mh1	ok
+chrprfweap_wasp_righttorso_missile2_mh1		
+chrprfweap_wasp_righttorso_missile6_mh1		
+
+
+
+
