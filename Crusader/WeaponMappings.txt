@@ -1,0 +1,69 @@
+chrprfweap_crusader_centertorso_lrm5_mh1    chrprfweap_crusader_centertorso_laser_eh1
+chrprfweap_crusader_centertorso_narc_mh1    chrprfweap_crusader_centertorso_laser_eh2
+chrprfweap_crusader_centertorso_srm6_mh1    centertorso_ppc_eh1
+chrprfweap_crusader_leftarm_flamer_eh1      chrprfweap_crusader_leftarm_flamer_eh1
+chrprfweap_crusader_leftarm_flamer_eh2      chrprfweap_crusader_leftarm_flamer_eh2
+chrprfweap_crusader_leftarm_laser_eh1       chrprfweap_crusader_leftarm_laser_eh1
+chrprfweap_crusader_leftarm_laser_eh2       chrprfweap_crusader_leftarm_laser_eh2
+chrprfweap_crusader_leftarm_lrm10_mh2       chrprfweap_crusader_leftarm_mg_bh1
+chrprfweap_crusader_leftarm_lrm15_mh1       chrprfweap_crusader_leftarm_lrm15_mh1
+chrprfweap_crusader_leftarm_lrm5_mh1        chrprfweap_crusader_leftarm_mg_bh2
+chrprfweap_crusader_leftarm_ppc_eh1         chrprfweap_crusader_leftarm_ppc_eh1
+chrprfweap_crusader_leftarm_ppc_eh2         chrprfweap_crusader_leftarm_ppc_eh2
+chrprfweap_crusader_leftarm_srm4_mh1        leftleg_srm2_mh2 (blank)
+chrprfweap_crusader_leftarm_srm6_mh1        chrprfweap_crusader_leftarm_srm6_mh1
+chrprfweap_crusader_leftarm_srm6_mh2        chrprfweap_crusader_leftleg_srm6_mh1
+chrprfweap_crusader_lefttorso_flamer_eh1    head_laser_eh1
+chrprfweap_crusader_lefttorso_laser_eh1     chrprfweap_crusader_lefttorso_laser_eh1
+chrprfweap_crusader_lefttorso_lrm10_mh1
+chrprfweap_crusader_lefttorso_lrm10_mh2
+chrprfweap_crusader_lefttorso_lrm15_mh1
+chrprfweap_crusader_lefttorso_lrm20_mh1
+chrprfweap_crusader_lefttorso_lrm5_mh1
+chrprfweap_crusader_lefttorso_lrm5_mh2
+chrprfweap_crusader_lefttorso_ppc_eh1       chrprfweap_crusader_lefttorso_ppc_eh1
+chrprfweap_crusader_lefttorso_srm2_mh1
+chrprfweap_crusader_lefttorso_srm2_mh2
+chrprfweap_crusader_lefttorso_srm4_mh1
+chrprfweap_crusader_lefttorso_srm4_mh2
+chrprfweap_crusader_lefttorso_srm6_mh1      lefttorso_srm6_mh1
+chrprfweap_crusader_lefttorso_srm6_mh2      righttorso_srm6_mh1
+chrprfweap_crusader_rightarm_flamer_eh1     chrprfweap_crusader_rightarm_flamer_eh1
+chrprfweap_crusader_rightarm_flamer_eh2     chrprfweap_crusader_rightarm_flamer_eh2
+chrprfweap_crusader_rightarm_laser_eh1      chrprfweap_crusader_rightarm_laser_eh1
+chrprfweap_crusader_rightarm_laser_eh2      chrprfweap_crusader_rightarm_laser_eh2
+chrprfweap_crusader_rightarm_lrm10_mh2      chrprfweap_crusader_rightarm_mg_bh1
+chrprfweap_crusader_rightarm_lrm15_mh1      chrprfweap_crusader_rightarm_lrm15_mh1
+chrprfweap_crusader_rightarm_lrm5_mh1       chrprfweap_crusader_rightarm_mg_bh2
+chrprfweap_crusader_rightarm_ppc_eh1        chrprfweap_crusader_rightarm_ppc_eh1
+chrprfweap_crusader_rightarm_ppc_eh2        chrprfweap_crusader_rightarm_ppc_eh2
+chrprfweap_crusader_rightarm_srm4_mh1       rightleg_srm2_mh2 (blank)
+chrprfweap_crusader_rightarm_srm6_mh1       chrprfweap_crusader_rightarm_srm6_mh1
+chrprfweap_crusader_rightarm_srm6_mh2       chrprfweap_crusader_rightleg_srm6_mh1
+chrprfweap_crusader_righttorso_ac10_bh1     lefttorso_ac10_eh1
+chrprfweap_crusader_righttorso_ac20_bh1     lefttorso_ac20_eh1
+chrprfweap_crusader_righttorso_ac5_bh1      lefttorso_ac5_eh1
+chrprfweap_crusader_righttorso_ac5_bh2      lefttorso_ac5_eh2
+chrprfweap_crusader_righttorso_gauss_bh1    chrprfweap_crusader_lefttorso_gauss_eh1
+chrprfweap_crusader_righttorso_lbx_bh1      chrprfweap_crusader_lefttorso_lbx_bh1
+chrprfweap_crusader_righttorso_lbx_bh2      chrprfweap_crusader_righttorso_laser_eh1
+chrprfweap_crusader_righttorso_mg_bh1
+chrprfweap_crusader_righttorso_mg_bh2
+chrprfweap_crusader_righttorso_uac5_bh1     chrprfweap_crusader_lefttorso_uac5_eh1
+chrprfweap_crusader_righttorso_uac5_bh2     chrprfweap_crusader_righttorso_ppc_eh1
+
+chrprfweap_crusader_leftarm_hardpoint_eh2   
+chrprfweap_crusader_lefttorso_blank_mh1
+chrprfweap_crusader_rightarm_hardpoint_eh2
+chrprfweap_crusader_righttorso_hardpoint_bh1
+
+
+
+
+Wrist Launchers
+CRD-5K  MRM30s R/LA, Laser Torso
+CRD-6M? MML7 & lPPC Arms
+CRD-7L  LRM15 R/LA, Laser CT & Hd
+CRD-7W  MML9 & MLas Arms
+CRD-8L  MML7 & Plasma Arms
+CRD-8L  LRM10 & MLas Arms
